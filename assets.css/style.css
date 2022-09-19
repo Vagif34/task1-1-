@@ -1,0 +1,110 @@
+.logo{
+    margin-left: 80px;
+}
+.picture{
+    margin-left: 10px;
+}
+h1{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+   text-align: center;
+   position: relative;
+   top: 160px;
+   color: darkslategray;
+}
+h4{
+    text-align: center;
+    width: 50%;
+    margin-left: 350px;
+    font-size: 20px;
+    background-color: darkgray;
+}
+#sect{
+    background-color:darkgrey;
+}
+.click{
+    text-align: center;
+}
+button{
+    font-size: 30px;
+    background-color: brown;
+    color:white;
+}
+h5{
+    font-size: 40px;
+    margin-left: 900px;
+}
+h3{
+    font-size: 30px;
+    color: red;
+    position: relative;
+    bottom: 40px;
+    margin-left: 900px;
+}
+.plumber{
+    position: relative;
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+    border: 100px;
+    bottom: 160px;
+}
+#plumber-photo{
+    width: 100px;
+    border: 10px;
+}
+.wrt{
+    position: relative;
+    bottom: 700px;
+    margin-left: 200px;
+    color: blueviolet;
+    font-size: 50px;
+}
+#hr{
+    width: 5%;
+
+}
+.writen6{
+    position: relative;
+   margin-bottom: 200px;
+    
+    width: 500%;
+    font-size: 30px;
+
+}
+.plumber2{
+    position: relative;
+    margin-left: 700px;
+    bottom: 620px;
+}
+.writen67{
+    position: relative;
+    top: 450px;
+    margin-left: 800px;
+    font-size: 30px;
+    color: aqua;
+
+}
+.writen7{
+   position: relative;
+   width: 40%;
+    top: 500px;
+    font-size: 30px;
+    margin-left: 800px;
+}
+.button2{
+    position: relative;
+    margin-top: 600px;
+    margin-left: 800px;
+}
+.plumber3{
+    position: relative;
+    bottom: 350px;
+}
+#sect3{
+    background-color: darkgrey;
+}
+
